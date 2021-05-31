@@ -25,3 +25,7 @@ I have a keen interest in Deep Learning especially NLP (Natural Language Process
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammrit2312&hide=issues,stars&count_private=true&show_icons=true&theme=radical" alt="Github Stats Amritesh"/>
   
 
+## How to Reach Me:
+⚫ Email Id: <a href = "mailto:amriteshc101@icloud.com">amriteshc101@icloud.com</a>
+<br/>
+⚫ LinkedIn: <a href = "https://www.linkedin.com/in/amritesh-amrit-896345194/">https://www.linkedin.com/in/amritesh-amrit-896345194/</a>
