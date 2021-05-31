@@ -21,6 +21,7 @@ I have a keen interest in Deep Learning especially NLP (Natural Language Process
 
 ## Github Information 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammrit2312&hide=java,html&langs_count=3&theme=gruvbox" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammrit2312&show_icons=true&theme=radical)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammrit2312)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
