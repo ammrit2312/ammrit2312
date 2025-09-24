@@ -28,4 +28,4 @@ I have a keen interest in Deep Learning especially NLP (Natural Language Process
 ## How to Reach Me:
 ⚫ Email Id: <a href = "mailto:amriteshc101@icloud.com">amriteshc101@icloud.com</a>
 <br/>
-⚫ LinkedIn: <a href = "https://www.linkedin.com/in/amritesh-amrit-896345194/">https://www.linkedin.com/in/amritesh-amrit-896345194/</a>
+⚫ LinkedIn: <a href = "www.linkedin.com/in/amriteshamrit">www.linkedin.com/in/amriteshamrit</a>
